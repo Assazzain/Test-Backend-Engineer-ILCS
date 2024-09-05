@@ -1,0 +1,14 @@
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\bin\Debug\netcoreapp3.1\SoalPemrogramanDasar.exe
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\bin\Debug\netcoreapp3.1\SoalPemrogramanDasar.deps.json
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\bin\Debug\netcoreapp3.1\SoalPemrogramanDasar.runtimeconfig.json
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\bin\Debug\netcoreapp3.1\SoalPemrogramanDasar.runtimeconfig.dev.json
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\bin\Debug\netcoreapp3.1\SoalPemrogramanDasar.dll
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\bin\Debug\netcoreapp3.1\SoalPemrogramanDasar.pdb
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\obj\Debug\netcoreapp3.1\SoalPemrogramanDasar.csproj.AssemblyReference.cache
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\obj\Debug\netcoreapp3.1\SoalPemrogramanDasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\obj\Debug\netcoreapp3.1\SoalPemrogramanDasar.AssemblyInfoInputs.cache
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\obj\Debug\netcoreapp3.1\SoalPemrogramanDasar.AssemblyInfo.cs
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\obj\Debug\netcoreapp3.1\SoalPemrogramanDasar.csproj.CoreCompileInputs.cache
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\obj\Debug\netcoreapp3.1\SoalPemrogramanDasar.dll
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\obj\Debug\netcoreapp3.1\SoalPemrogramanDasar.pdb
+C:\Users\Zainal\Documents\ILCS Test 2\SoalPemrogramanDasar\SoalPemrogramanDasar\SoalPemrogramanDasar\obj\Debug\netcoreapp3.1\SoalPemrogramanDasar.genruntimeconfig.cache

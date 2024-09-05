@@ -1,0 +1,9 @@
+SOAL DATABASE
+1. SELECT Kapal, Pelayaran, STRING_AGG(TUJUAN, ', ') AS Tujuan, TglBerangkat
+   FROM PenumpangKapal
+   GROUP BY Kapal;
+2. SELECT Kapal, Pelayaran, Tujuan, TglBerangkat, COUNT(Tujuan) AS JumlahTiket
+   FROM PenumpangKapal
+   GROUP BY Tujuan
+3. UPDATE Tabel
+   SET ID = CONCAT(Prefix, RIGHT(REPLICATE('0', 6) + CAST(Sequence AS VARCHAR(6)), 6))
